@@ -66,7 +66,7 @@ GIT, github, JEPLIN, XD, 이클립스, vscode, 카페24, 그누보드, 워드프
 2. 메일 주소로 연락주셔도 됩니다!<br>
    developer.js.corn@gmail.com<br><br>
 
-확인하는 대로 최대한 빠른 시일 내에 답변드립니다.
+확인하는 대로 최대한 빠른 시일 내에 답변드립니다!
 
 <br><br>
 
