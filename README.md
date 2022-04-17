@@ -44,8 +44,7 @@ C, Python
 
 #### 🪡 사용 가능한 도구
 
-GIT, github, JEPLIN, XD, 이클립스, vscode, <br>
-카페24, 그누보드, 워드프레스, XE(제로보드)
+GIT, github, JEPLIN, XD, 이클립스, vscode, 카페24, 그누보드, 워드프레스, XE(제로보드)
 <br><br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinsiri)](https://github.com/jinsiri/github-readme-stats)
