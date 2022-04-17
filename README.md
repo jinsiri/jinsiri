@@ -2,7 +2,7 @@
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/40844404/163713429-6bdb8d14-0436-4761-93fa-d0ecb2f9e8df.png" width="100%" alt="프로필사진">
+<!--<img src="https://user-images.githubusercontent.com/40844404/163713429-6bdb8d14-0436-4761-93fa-d0ecb2f9e8df.png" width="100%" alt="프로필사진">-->
 <br><br>
 
 ### 🌿 이런 사람입니다!<br>
