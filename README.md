@@ -30,7 +30,7 @@
 
 HTML5, CSS3, SCSS, JAVASCRIPT, JQUERY
 
-#### 능숙하진 않지만 간단한 기능 개발 가능
+#### 간단한 기능 개발 가능
 
 JAVA, SPRING, Oracle(SQL Developer), Apache Tomcat
 
