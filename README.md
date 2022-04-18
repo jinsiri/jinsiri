@@ -25,25 +25,26 @@
 
 ### 🪄 이런 걸 할 줄 압니다!
 
-#### 비교적 편하게 사용
+- 비교적 편하게 사용
 
 HTML5, CSS3, SCSS, JAVASCRIPT, JQUERY
 
-#### 간단한 기능 개발 가능
+- 간단한 기능 개발 가능
 
 JAVA, SPRING, Oracle(SQL Developer), Apache Tomcat
 
-#### ✏️ 지금 공부중인 것
+- ✏️ 지금 공부중인 것
 
 REACT, NEXACRO
 
-#### 🌱 기초만 익혀둔 것
+- 🌱 기초만 익혀둔 것
 
 C, Python
 
-#### 🪡 사용 가능한 도구
+- 🪡 사용 가능한 도구
 
-GIT, github, JEPLIN, XD, 이클립스, vscode, 카페24, 그누보드, 워드프레스, XE(제로보드)
+GIT, github, JEPLIN, XD, 이클립스, vscode, atom, 카페24, 그누보드, 워드프레스, XE(제로보드), ...
+IDE는 가리지 않아요 :)
 <br><br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinsiri)](https://github.com/jinsiri/github-readme-stats)
