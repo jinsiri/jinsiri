@@ -25,10 +25,10 @@
 
 ### 🪄 이런 걸 할 줄 압니다!
 
-- 비교적 편하게 사용<br>HTML5, CSS3, SCSS, JAVASCRIPT, JQUERY
-- 간단한 기능 개발 가능<br>JAVA, SPRING, Oracle(SQL Developer), Apache Tomcat
-- ✏️ 지금 공부중인 것<br>REACT, NEXACRO
-- 🌱 기초만 익혀둔 것<br>C, Python
+- 비교적 편하게 사용<br>HTML5, CSS3, SCSS, JAVASCRIPT, JQUERY<br>
+- 간단한 기능 개발 가능<br>JAVA, SPRING, Oracle(SQL Developer), Apache Tomcat<br>
+- ✏️ 지금 공부중인 것<br>REACT, NEXACRO<br>
+- 🌱 기초만 익혀둔 것<br>C, Python<br>
 - 🪡 사용 가능한 도구<br>GIT, github, JEPLIN, XD, 이클립스, vscode, atom, 카페24, 그누보드, 워드프레스, XE(제로보드), ...
 <br><br>
 
