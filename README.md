@@ -25,7 +25,7 @@
 
 ### 🪄 이런 걸 할 줄 압니다!
 
-- Front-end <br>HTML5, CSS3, SCSS, JAVASCRIPT, JQUERY<br><br>
+- Front-end <br><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> HTML5, CSS3, SCSS, JAVASCRIPT, JQUERY<br><br>
 - Back-end <br>JAVA, SPRING, Oracle(SQL Developer), Apache Tomcat<br><br>
 - ✏️ 지금 공부중인 것<br>REACT, NEXACRO<br><br>
 - 🌱 기초만 익혀둔 것<br>C, Python<br><br>
