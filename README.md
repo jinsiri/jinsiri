@@ -25,8 +25,11 @@
 
 ### 🪄 이런 걸 할 줄 압니다!
 
-- Front-end <br><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> HTML5, CSS3, SCSS, JAVASCRIPT, JQUERY<br><br>
-- Back-end <br>JAVA, SPRING, Oracle(SQL Developer), Apache Tomcat<br><br>
+- Front-end <br>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>, 
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>, 
+SCSS, JAVASCRIPT, JQUERY<br><br>
+- Back-end <br>JSP, JAVA, SPRING, Oracle(SQL Developer), Apache Tomcat<br><br>
 - ✏️ 지금 공부중인 것<br>REACT, NEXACRO<br><br>
 - 🌱 기초만 익혀둔 것<br>C, Python<br><br>
 - 🪡 사용 가능한 도구<br>GIT, github, JEPLIN, XD, 이클립스, vscode, atom, 카페24, 그누보드, 워드프레스, XE(제로보드), ...
