@@ -29,8 +29,8 @@
 ### 🤝 EXPERIENCE
 
 **Professional Experience**
-- **시스원 (Sysone)** | Full-Stack Developer | 2022.06 – 2024.11
-- **미르나인 (Mir9)** | Web Developer & Freelancer | 2018.00 – 2021.00
+- **시스원 (Sysone)** | Full-Stack Developer | 2022.07 – 2024.11
+- **미르나인 (Mir9)** | Web Developer & Freelancer | 2018.07 – 2020.11
 - 다수 브랜드의 대규모 이벤트 및 공식 홈페이지 구축 (토니모리, AHC, 라오가닉, 오더퀸, 도브, 카피치 등)
 
 **Key Strengths**
