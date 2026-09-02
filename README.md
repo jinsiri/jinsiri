@@ -1,55 +1,45 @@
-# 🚀 Technology for People | Full-Stack Developer
+# 🚀 Front-end Developer | 권진실
 
-<br>
 
 ### 🌿 ABOUT
 
-- **"문학적 통찰로 기획을 읽고, 견고한 코드로 가치를 구현합니다."**
-- 6년+α 경력의 웹 개발 전문가로, 기획부터 백엔드 설계 및 배포까지 전체 라이프사이클 경험이 있습니다.
-- 복잡한 비즈니스 로직 구현에 희열을 느끼며, 기술을 위한 기술이 아닌 **사람을 위한 기술**을 고민합니다.
-- 문학 전공 기반의 높은 문해력은 정교한 기획서 분석과 효율적인 API 설계의 밑거름이 됩니다. 📖
-- 최근 컴퓨터과학과를 추가 전공하여 실무 경험에 탄탄한 CS 이론을 더했습니다.
+- **문학적 통찰로 기획을 읽고, 견고한 코드로 가치를 구현합니다.**
+- 웹 퍼블리싱 기반 UI/UX 디테일 경험과 풀스택 경험을 바탕으로, 도메인/기술 간 컨텍스트 스위칭 비용을 최소화하는 프론트엔드 개발자입니다.
+- 팀 내 기획/디자인 리소스가 부족한 환경에서도 UI/UX 설계와 프론트엔드 아키텍처를 직접 리딩한 경험이 있습니다.
+- Next.js(App Router), TypeScript, TanStack Query, Zustand, Supabase 기반 사이드 프로젝트를 지속하며<br/> 
+  최신 프론트엔드 생태계를 실무에 내재화하고 있습니다.
+- 자세한 경력 사항은 아래 웹사이트 링크를 참고해주세요.
 - 업무 선호 시간은 집중력이 가장 높은 **아침과 낮**입니다. 🌞
 
-<br>
+---
 
 ### 🪄 SKILLS
 
-**Front-end** <br>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/> <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/redux-764ABC?style=flat-square&logo=Redux&logoColor=white"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/SASS-CC6699?style=flat-square&logo=SASS&logoColor=white"/>
+| 분류 | 기술 |
+| --- | --- |
+| **Frontend** | React, Next.js, TypeScript, JavaScript, Recoil, Redux, Zustand, TanStack Query, HTML5, CSS3, SCSS/SASS |
+| **Backend & DB** | Java, Spring Boot, Spring Data JPA, PostgreSQL, Supabase |
+| **DevOps & Tools** | Linux, Docker, Git, Vercel, Figma |
 
-**Back-end** <br>
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/postgresql-4169E1?style=flat-square&logo=Postgresql&logoColor=white"> <img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=Docker&logoColor=white"> <img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=Linux&logoColor=black">
+---
 
-**Tools & Others** 
-- **Version Control:** GIT, GitHub
-- **Collaboration:** Figma, Zeplin, Slack, Jira
-- 주력 언어는 **JavaScript**이나 환경과 요구사항에 최적화된 도구를 유연하게 선택합니다.
+### 🛠️ PROJECTS
 
-<br>
+#### **[SEORO-SEORO](비공개 레포 · 개발 진행 중)** — 독서 모임 웹 애플리케이션
+`Next.js(App Router)` `TypeScript` `TanStack Query` `Zustand` `Supabase` `Tailwind CSS`<br/> 
+TanStack Query로 서버 상태, Zustand로 클라이언트 UI 상태를 분리 설계. <br/> 
+Supabase RLS 연동으로 이메일 인증·모임 권한·릴레이션 로직을 프론트엔드 단에서 구현.
 
-### 🤝 EXPERIENCE
+#### **[EASY-C](https://github.com/jinsiri/easy-c)** — 그룹웨어 웹 애플리케이션
+`Next.js(App Router)` `TypeScript` `Zustand` `Java` `PostgreSQL`<br/> 
+조직도/부서 트리 관리 시스템 설계·개발. 트리 구조 데이터 플랫화로 시간복잡도 개선, 공통 에러 핸들링 인터셉터 설계.
 
-**Professional Experience**
-- **시스원 (Sysone)** | Full-Stack Developer | 2022.07 – 2024.11
-- **미르나인 (Mir9)** | Web Developer & Freelancer | 2018.07 – 2020.11
-- 다수 브랜드의 대규모 이벤트 및 공식 홈페이지 구축 (토니모리, AHC, 라오가닉, 오더퀸, 도브, 카피치 등)
-
-**Key Strengths**
-- 전 과정(기획-설계-배포)을 아우르는 **Full-Stack 역량**
-- 트래픽 최적화 및 복잡한 이벤트 로직 설계 경험
-- 디자인 협업 툴 활용 및 UI/UX 디테일 구현 능력
-
-<br>
+---
 
 ### 📝 CONTACT
 
-비즈니스 협업 및 외주 문의는 아래 채널로 연락 부탁드립니다.
+추가적인 정보는 아래에서 확인하실 수 있습니다.
 
-| 항목 | 정보 |
-| :--- | :--- |
-| **Email** | [developer.js.corn@gmail.com](mailto:developer.js.corn@gmail.com) |
-| **Website** | [https://truthprevails.me](https://truthprevails.me) |
-| **Technical Log** | [https://today-i-played.tistory.com](https://today-i-played.tistory.com) |
-
-<br>
+- **Email:** jinsil.kwon.dev@gmail.com
+- **Website:** <https://truthprevails.me>
+- **Blog:** <https://today-i-played.tistory.com>
