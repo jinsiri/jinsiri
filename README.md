@@ -25,7 +25,7 @@
 
 ### 🛠️ PROJECTS
 
-#### **[SEORO-SEORO](비공개 레포 · 개발 진행 중)** — 독서 모임 웹 애플리케이션
+#### **SEORO-SEORO (비공개 레포 · 개발 진행 중)** — 독서 모임 웹 애플리케이션
 `Next.js(App Router)` `TypeScript` `TanStack Query` `Zustand` `Supabase` `Tailwind CSS`<br/> 
 TanStack Query로 서버 상태, Zustand로 클라이언트 UI 상태를 분리 설계. <br/> 
 Supabase RLS 연동으로 이메일 인증·모임 권한·릴레이션 로직을 프론트엔드 단에서 구현.
