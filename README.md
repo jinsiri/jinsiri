@@ -25,14 +25,20 @@
 
 ### 🛠️ PROJECTS
 
-#### **SEORO-SEORO (비공개 레포 · 개발 진행 중)** — 독서 모임 웹 애플리케이션
-`Next.js(App Router)` `TypeScript` `TanStack Query` `Zustand` `Supabase` `Tailwind CSS`<br/> 
-TanStack Query로 서버 상태, Zustand로 클라이언트 UI 상태를 분리 설계. <br/> 
-Supabase RLS 연동으로 이메일 인증·모임 권한·릴레이션 로직을 프론트엔드 단에서 구현.
+#### [TRUTH WORLD](https://truthprevails.me) — 개인 포트폴리오 웹사이트(게임형/클래식 듀얼 모드)
+`Next.js 15` `React 19` `TypeScript` `Zustand` `Framer Motion` `Tailwind CSS`<br/>
+클래식 모드와 게임 모드 두 가지 인터페이스로 이력을 소개하는 인터랙티브 포트폴리오. <br/>
+게임 모드는 Full Keyboard Navigation을 지원해 웹 접근성을 고려했으며,<br/>
+Framer Motion 기반의 포커스 트래킹과 애니메이션을 구현.
 
 #### **[EASY-C](https://github.com/jinsiri/easy-c)** — 그룹웨어 웹 애플리케이션
 `Next.js(App Router)` `TypeScript` `Zustand` `Java` `PostgreSQL`<br/> 
 조직도/부서 트리 관리 시스템 설계·개발. 트리 구조 데이터 플랫화로 시간복잡도 개선, 공통 에러 핸들링 인터셉터 설계.
+
+#### **SEORO-SEORO (비공개 레포 · 개발 진행 중)** — 독서 모임 웹 애플리케이션
+`Next.js(App Router)` `TypeScript` `TanStack Query` `Zustand` `Supabase` `Tailwind CSS`<br/> 
+TanStack Query로 서버 상태, Zustand로 클라이언트 UI 상태를 분리 설계. <br/> 
+Supabase RLS 연동으로 이메일 인증·모임 권한·릴레이션 로직을 프론트엔드 단에서 구현.
 
 ---
 
@@ -41,5 +47,5 @@ Supabase RLS 연동으로 이메일 인증·모임 권한·릴레이션 로직�
 추가적인 정보는 아래에서 확인하실 수 있습니다.
 
 - **Email:** jinsil.kwon.dev@gmail.com
-- **Website:** <https://truthprevails.me>
+- **Website:** <https://truthprevails.me/classic>
 - **Blog:** <https://today-i-played.tistory.com>
